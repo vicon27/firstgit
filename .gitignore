@@ -1,0 +1,15 @@
+#packages ignore the following
+*.zip
+*.rar
+*.jar
+*.tar
+#compiledsource
+*.exe
+*.class
+*.dll
+*.o
+*.so
+#Logs and databases
+*.sql
+*.log
+*.sqlite
